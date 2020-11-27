@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root xmlns="C:\Users\lenovo\Desktop">
+    <Element>
+        <id>123</id>
+        <title>Harry Potter</title>
+        <price>120.0</price>
+    </Element>
+    <Element>
+        <id>124</id>
+        <title>Farewell to Arms</title>
+        <price>130.0</price>
+    </Element>
+    <Element>
+        <id>125</id>
+        <title>Early Indians</title>
+        <price>140.0</price>
+    </Element>
+</root>
